@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,60:0C4A6E,100:0E7490&height=190&section=header&text=Santhosh%20R&fontSize=54&fontColor=ECFEFF&fontAlignY=40&animation=twinkling&desc=Java%20Full-Stack%20%C2%B7%20Cloud%20Enthusiast%20%C2%B7%20Final-Year%20CSE&descAlignY=66&descSize=17&descColor=67E8F9" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0C4A6E,70:0891B2,100:22D3EE&height=250&section=header&text=Santhosh%20R&fontSize=64&fontColor=ECFEFF&animation=twinkling&fontAlignY=34&stroke=22D3EE&strokeWidth=1&desc=%E2%9A%A1%20Java%20Full-Stack%20%E2%80%A2%20%E2%98%81%EF%B8%8F%20Cloud%20Enthusiast%20%E2%80%A2%20%F0%9F%8E%93%20Final-Year%20CSE&descAlignY=54&descSize=18&descColor=A5F3FC" />
 </p>
 
 <p align="center">
@@ -12,38 +12,11 @@
   <a href="mailto:santhoshravikumar10@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=22D3EE" /></a>
 </p>
 
-## 👨‍💻 About me
+## 🚀 What I am up to
 
-<table align="center">
-  <tr>
-    <td><b>🎓 Education</b></td>
-    <td>B.E. Computer Science and Engineering, 2023 to 2027</td>
-  </tr>
-  <tr>
-    <td><b>🏫 College</b></td>
-    <td>Vel Tech High Tech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai</td>
-  </tr>
-  <tr>
-    <td><b>🎯 Focus</b></td>
-    <td>Java full-stack development and cloud</td>
-  </tr>
-  <tr>
-    <td><b>📍 Status</b></td>
-    <td>Open to fresher roles in software development and cloud</td>
-  </tr>
-</table>
-
-## 💻 I code in
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,spring,postgres,flask&theme=dark" />
-</p>
-
-## ☁️ Tools and cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github,postman,maven,figma,vite,netlify&theme=dark" />
-</p>
+- 🎯 Applying for fresher roles in software development and cloud
+- ☁️ Learning AWS: I deployed my own project on EC2 and I am working through AWS Skill Builder courses
+- 🧩 Practising one coding problem a day to strengthen DSA
 
 ## 🛠️ Featured projects
 
@@ -79,16 +52,22 @@
   </tr>
 </table>
 
+## 💻 I code in
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,spring,postgres,flask&theme=dark" />
+</p>
+
+## ☁️ Tools and cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github,postman,maven,figma,vite,netlify&theme=dark" />
+</p>
+
 ## 💼 Experience
 
 **Web Development Intern** · Altruisty Innovation Pvt Ltd, Avadi, Chennai · *Jun 2025 to Jul 2025*
 Designed interfaces in Figma and built responsive pages and reusable React components with input validation.
-
-## 🚀 What I am up to
-
-- 🎯 Applying for fresher roles in software development and cloud
-- ☁️ Learning AWS: I deployed my own project on EC2 and I am working through AWS Skill Builder courses
-- 🧩 Practising one coding problem a day to strengthen DSA
 
 ## 📈 GitHub stats
 
@@ -106,5 +85,5 @@ Designed interfaces in Figma and built responsive pages and reusable React compo
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,60:0C4A6E,100:0E7490&height=50&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0EA5E9,100:020617&height=110&section=footer" />
 </p>
