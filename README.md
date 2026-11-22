@@ -63,6 +63,14 @@
 <p>
   <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github,postman,maven,figma,vite,netlify&theme=dark" />
 </p>
+## 🤝 Let us connect
+
+<p>
+  <a href="https://www.linkedin.com/in/santhosh-r10/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Santhosh-kido"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://santhosh-r10.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="mailto:santhoshravikumar10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ## 💼 Experience
 
