@@ -38,18 +38,17 @@ public class Santhosh {
 ---
 
 ### 🛠️ Featured projects
-
 <p align="center">
-  <a href="https://github.com/Santhosh-kido/<repo-name>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-kido&repo=<repo-name>&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Santhosh-kido/Employee_Management_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-kido&repo=Employee_Management_System&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/Santhosh-kido/<repo-name>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-kido&repo=<repo-name>&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Santhosh-kido/human-disease-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-kido&repo=human-disease-prediction&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Santhosh-kido/<repo-name>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-kido&repo=<repo-name>&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Santhosh-kido/Mobile-Addiction-Pdiction-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Santhosh-kido&repo=Mobile-Addiction-Pdiction-System&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
