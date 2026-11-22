@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0C4A6E,70:0891B2,100:22D3EE&height=250&section=header&text=Santhosh%20R&fontSize=64&fontColor=ECFEFF&fontAlignY=34&stroke=22D3EE&strokeWidth=1&desc=%E2%9A%A1%20Java%20Full-Stack%20%E2%80%A2%20%E2%98%81%EF%B8%8F%20Cloud%20Enthusiast%20%E2%80%A2%20%F0%9F%8E%93%20Final-Year%20CSE&descAlignY=54&descSize=18&descColor=A5F3FC" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0C4A6E,70:0891B2,100:22D3EE&height=250&section=header&text=Santhosh%20R&fontSize=64&fontColor=ECFEFF&fontAlignY=34&stroke=22D3EE&strokeWidth=1&animation=fadeIn&desc=%E2%9A%A1%20Java%20Full-Stack%20%E2%80%A2%20%E2%98%81%EF%B8%8F%20Cloud%20Enthusiast%20%E2%80%A2%20%F0%9F%8E%93%20Final-Year%20CSE&descAlignY=54&descSize=18&descColor=A5F3FC" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=34&lines=React+%2B+Spring+Boot+%2B+PostgreSQL;Deployed+on+AWS+EC2;Open+to+fresher+roles+in+Chennai" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=900&duration=2800&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&height=34&lines=React+%2B+Spring+Boot+%2B+PostgreSQL;Deployed+on+AWS+EC2;Building+REST+APIs+with+Spring+Boot;Learning+S3%2C+RDS+and+Docker;Open+to+fresher+roles+in+Chennai" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/santhosh-r10/"><img src="https://img.shields.io/badge/LinkedIn-santhosh--r10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://santhosh-r10.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live-0891B2?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="mailto:santhoshravikumar10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Santhosh-kido&label=Profile+Views&color=0891B2&style=for-the-badge" />
 </p>
 
 ### 🚀 What I am up to
@@ -82,5 +83,9 @@ Designed interfaces in Figma and built responsive pages and reusable React compo
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0EA5E9,100:020617&height=110&section=footer" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-kido&bg_color=020617&color=22D3EE&line=0891B2&point=ECFEFF&area=true&area_color=0C4A6E&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0EA5E9,100:020617&height=110&section=footer&animation=fadeIn" />
 </p>
