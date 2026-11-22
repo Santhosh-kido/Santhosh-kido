@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/santhosh-r10/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=22D3EE" /></a>
-  <a href="https://santhosh-r10.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=netlify&logoColor=22D3EE" /></a>
-  <a href="mailto:santhoshravikumar10@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=22D3EE" /></a>
+  <a href="https://www.linkedin.com/in/santhosh-r10/"><img src="https://img.shields.io/badge/LinkedIn-santhosh--r10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://santhosh-r10.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="mailto:santhoshravikumar10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open_to-Fresher_Roles-22C55E?style=for-the-badge" />
 </p>
 
 ## 👨‍💻 About me
