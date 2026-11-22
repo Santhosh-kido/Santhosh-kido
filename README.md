@@ -14,9 +14,11 @@
 
 ### 🚀 What I am up to
 
-- 🎯 Applying for fresher roles in software development and cloud
-- ☁️ Learning AWS: I deployed my own project on EC2 and I am working through AWS Skill Builder courses
-- 🧩 Practising one coding problem a day to strengthen DSA
+- 🎯 **Seeking:** fresher roles in Java full-stack, backend and cloud
+- ☁️ **Learning AWS:** I deployed my own project on EC2, and I am now exploring S3 and RDS
+- 🐳 **Next up:** Docker and containerising my Spring Boot apps
+- ⚙️ **Building:** scalable backend systems with Java, Spring Boot and REST APIs
+- 🧩 **Practising:** one DSA problem a day to sharpen problem solving
 
 ### 🛠️ Featured projects
 
