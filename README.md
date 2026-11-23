@@ -64,7 +64,7 @@
 
 ### ☁️ Tools and cloud
 
-<img alt="AWS, Linux, Ubuntu, Git, GitHub, Postman, Maven, Figma, Vite, Netlify" src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github,postman,maven,figma,vite,netlify&theme=dark" />
+<img alt="Arch Linux, AWS, Linux, Git, GitHub, Postman, Maven, Figma, Vite, Netlify" src="https://skillicons.dev/icons?i=arch,aws,linux,git,github,postman,maven,figma,vite,netlify&theme=dark" />
 
 ### 🤝 Let us connect
 
