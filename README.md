@@ -23,37 +23,6 @@
 
 ### 🛠️ Featured projects
 
-<!-- <table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">What it does</th>
-    <th align="left">Tech</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Santhosh-kido/Employee_Management_System"><b>Workforce Management System</b></a><br/>
-      <sub>Full-stack · Deployed on AWS</sub>
-    </td>
-    <td>Employee management app with CRUD, live filters by ID, name, department, salary and joining date, deployed on an AWS EC2 server</td>
-    <td><code>React</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>AWS EC2</code></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Santhosh-kido/human-disease-prediction"><b>Human Disease Prediction System</b></a><br/>
-      <sub>Machine learning · Flask API</sub>
-    </td>
-    <td>Predicts a possible disease from symptoms using three ML models and a majority vote</td>
-    <td><code>Python</code> <code>Flask</code> <code>scikit-learn</code></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Santhosh-kido/Mobile-Addiction-Pdiction-System"><b>User Centric Mobile Addiction Analysis</b></a><br/>
-      <sub>Machine learning · Web app</sub>
-    </td>
-    <td>Questionnaire-based web app that predicts smartphone addiction risk with an ML ensemble</td>
-    <td><code>Python</code> <code>Flask</code> <code>scikit-learn</code></td>
-  </tr>
-</table> -->
 <table>
   <tr>
     <th align="left">Project</th>
@@ -85,6 +54,27 @@
     <td><code>Python</code> <code>Flask</code> <code>scikit-learn</code></td>
   </tr>
 </table>
+
+<h3 align="center">💻 I code in</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,spring,postgres,flask&theme=dark" />
+</p>
+
+<h3 align="center">☁️ Tools and cloud</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github,postman,maven,figma,vite,netlify&theme=dark" />
+</p>
+
+<h3 align="center">🤝 Let us connect</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/santhosh-r10/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Santhosh-kido"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://santhosh-r10.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="mailto:santhoshravikumar10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ### 💻 I code in
 
