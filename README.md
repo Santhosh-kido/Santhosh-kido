@@ -20,13 +20,37 @@
 </div>
 
 🚀 What I am up to
+<table>
+  <tr>
+    <td width="48" align="center">🎯</td>
+    <td width="150"><b>Seeking</b></td>
+    <td>fresher roles in Java full-stack, backend and cloud</td>
+  </tr>
+  <tr>
+    <td align="center">☁️</td>
+    <td><b>Learning AWS</b></td>
+    <td>I deployed my own project on EC2, and I am now exploring S3 and RDS</td>
+  </tr>
+  <tr>
+    <td align="center">🐳</td>
+    <td><b>Next up</b></td>
+    <td>Docker and containerising my Spring Boot apps</td>
+  </tr>
+  <tr>
+    <td align="center">⚙️</td>
+    <td><b>Building</b></td>
+    <td>scalable backend systems with Java, Spring Boot and REST APIs</td>
+  </tr>
+  <tr>
+    <td align="center">🧩</td>
+    <td><b>Practising</b></td>
+    <td>one DSA problem a day to sharpen problem solving</td>
+  </tr>
+</table>
 
-    🎯 Seeking: fresher roles in Java full-stack, backend and cloud
-    ☁️ Learning AWS: I deployed my own project on EC2, and I am now exploring S3 and RDS
-    🐳 Next up: Docker and containerising my Spring Boot apps
-    ⚙️ Building: scalable backend systems with Java, Spring Boot and REST APIs
-    🧩 Practising: one DSA problem a day to sharpen problem solving
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
+</div>
 🛠️ Featured projects
 <table>
   <tr>
