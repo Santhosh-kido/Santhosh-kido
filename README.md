@@ -13,12 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=Santhosh-kido&label=Profile+Views&color=0891B2&style=for-the-badge" />
 </p>
 
-<div align="center">
-  <img src="https://github.com/Santhosh-kido.png" width="120" alt="Santhosh R" />
-  <br/>
-  <sub>Java Full-Stack Developer &nbsp;•&nbsp; Cloud Enthusiast &nbsp;•&nbsp; Final-Year CSE student</sub>
-</div>
-
 🚀 What I am up to
 <table>
   <tr>
