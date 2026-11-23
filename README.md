@@ -61,10 +61,12 @@
 ### 💻 I code in
 
 <img alt="Java, Spring Boot, React, HTML, CSS, JavaScript, PostgreSQL, Python, Flask" src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,postgres,py,flask&theme=dark" />
+<br/>
 
 ### ☁️ Tools and cloud
 
 <img alt="Arch Linux, VS Code, AWS, Linux, Git, GitHub, Postman, Maven, Figma, Vite, Netlify" src="https://skillicons.dev/icons?i=arch,vscode,aws,linux,git,github,postman,maven,figma,vite,netlify&theme=dark" />
+<br/>
 
 ### 🤝 Let us connect
 
