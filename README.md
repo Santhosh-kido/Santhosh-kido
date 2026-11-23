@@ -80,13 +80,7 @@ Designed interfaces in Figma and built responsive pages and reusable React compo
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Santhosh-kido&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-kido&layout=donut&langs_count=5&theme=tokyonight&hide_border=true" />
-  &nbsp;
   <img height="180" src="https://streak-stats.demolab.com/?user=Santhosh-kido&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh-kido&bg_color=020617&color=22D3EE&line=0891B2&point=ECFEFF&area=true&area_color=0C4A6E&hide_border=true" />
 </p>
 
 <p align="center">
