@@ -63,9 +63,7 @@
 <img alt="Java, Python, JavaScript, HTML, CSS, React, Spring, PostgreSQL, Flask" src="https://skillicons.dev/icons?i=java,py,js,html,css,react,spring,postgres,flask&theme=dark" />
 
 ### ☁️ Tools and cloud
-
-<img alt="Arch Linux, AWS, Linux, Git, GitHub, Postman, Maven, Figma, Vite, Netlify" src="https://skillicons.dev/icons?i=arch,aws,linux,git,github,postman,maven,figma,vite,netlify&theme=dark" />
-
+<img alt="Arch Linux, VS Code, AWS, Linux, Git, GitHub, Postman, Maven, Figma, Vite, Netlify" src="https://skillicons.dev/icons?i=arch,vscode,aws,linux,git,github,postman,maven,figma,vite,netlify&theme=dark" />
 ### 🤝 Let us connect
 
 <a href="https://www.linkedin.com/in/santhosh-r10/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
