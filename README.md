@@ -24,7 +24,7 @@
 - ⚙️ **Building:** scalable backend systems with Java, Spring Boot and REST APIs
 - 🧩 **Practising:** one DSA problem a day to sharpen problem solving
 
-### 🛠️ Featured projects
+## 🛠️ Featured projects
 
 <table>
   <tr>
