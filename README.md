@@ -13,39 +13,16 @@
   <img src="https://komarev.com/ghpvc/?username=Santhosh-kido&label=Profile+Views&color=0891B2&style=for-the-badge" />
 </p>
 
-🚀 What I am up to
-<table>
-  <tr>
-    <td width="48" align="center">🎯</td>
-    <td width="150"><b>Seeking</b></td>
-    <td>fresher roles in Java full-stack, backend and cloud</td>
-  </tr>
-  <tr>
-    <td align="center">☁️</td>
-    <td><b>Learning AWS</b></td>
-    <td>I deployed my own project on EC2, and I am now exploring S3 and RDS</td>
-  </tr>
-  <tr>
-    <td align="center">🐳</td>
-    <td><b>Next up</b></td>
-    <td>Docker and containerising my Spring Boot apps</td>
-  </tr>
-  <tr>
-    <td align="center">⚙️</td>
-    <td><b>Building</b></td>
-    <td>scalable backend systems with Java, Spring Boot and REST APIs</td>
-  </tr>
-  <tr>
-    <td align="center">🧩</td>
-    <td><b>Practising</b></td>
-    <td>one DSA problem a day to sharpen problem solving</td>
-  </tr>
-</table>
+### 🚀 What I am up to
 
-<!-- <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
-</div> -->
-🛠️ Featured projects
+- 🎯 **Seeking:** fresher roles in Java full-stack, backend and cloud
+- ☁️ **Learning AWS:** I deployed my own project on EC2, and I am now exploring S3 and RDS
+- 🐳 **Next up:** Docker and containerising my Spring Boot apps
+- ⚙️ **Building:** scalable backend systems with Java, Spring Boot and REST APIs
+- 🧩 **Practising:** one DSA problem a day to sharpen problem solving
+
+### 🛠️ Featured projects
+
 <table>
   <tr>
     <th align="left">Project</th>
@@ -78,36 +55,32 @@
   </tr>
 </table>
 
-💻 I code in
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,spring,postgres,flask&theme=dark" />
-</p>
+### 💻 I code in
 
-☁️ Tools and cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github,postman,maven,figma,vite,netlify&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,spring,postgres,flask&theme=dark" />
 
-🤝 Let us connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/santhosh-r10/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Santhosh-kido"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://santhosh-r10.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="mailto:santhoshravikumar10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### ☁️ Tools and cloud
 
-💼 Experience
+<img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,git,github,postman,maven,figma,vite,netlify&theme=dark" />
 
-Web Development Intern · Altruisty Innovation Pvt Ltd, Avadi, Chennai · Jun 2025 to Jul 2025<br/>
+### 🤝 Let us connect
+
+<a href="https://www.linkedin.com/in/santhosh-r10/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Santhosh-kido"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://santhosh-r10.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="mailto:santhoshravikumar10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+### 💼 Experience
+
+**Web Development Intern** · Altruisty Innovation Pvt Ltd, Avadi, Chennai · *Jun 2025 to Jul 2025*<br/>
 Designed interfaces in Figma and built responsive pages and reusable React components with input validation.
-<br/>
-📈 GitHub stats
+
+### 📈 GitHub stats
+
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Santhosh-kido&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-kido&layout=donut&langs_count=5&theme=tokyonight&hide_border=true" />
-  &nbsp;
-  <img height="180" src="https://streak-stats.demolab.com/?user=Santhosh-kido&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
