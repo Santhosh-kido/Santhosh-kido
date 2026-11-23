@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/santhosh-r10/"><img src="https://img.shields.io/badge/LinkedIn-santhosh--r10-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://santhosh-r10.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live-0891B2?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="mailto:santhoshravikumar10@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Santhosh-kido&label=Profile+Views&color=0891B2&style=for-the-badge" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=Santhosh-kido&label=Profile+Views&color=0891B2&style=for-the-badge" /> -->
 </p>
 
 ### 🚀 What I am up to
@@ -81,8 +81,8 @@ Designed interfaces in Figma and built responsive pages and reusable React compo
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Santhosh-kido&show_icons=true&theme=tokyonight&hide_border=true" />
   &nbsp;
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santhosh-kido&layout=donut&langs_count=5&theme=tokyonight&hide_border=true" />
-  &nbsp;
-  <img height="180" src="https://streak-stats.demolab.com/?user=Santhosh-kido&theme=tokyonight&hide_border=true" />
+  <!-- &nbsp;
+  <img height="180" src="https://streak-stats.demolab.com/?user=Santhosh-kido&theme=tokyonight&hide_border=true" /> -->
 </p>
 
 <p align="center">
