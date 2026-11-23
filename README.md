@@ -23,6 +23,37 @@
 
 ### 🛠️ Featured projects
 
+<!-- <table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">What it does</th>
+    <th align="left">Tech</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Santhosh-kido/Employee_Management_System"><b>Workforce Management System</b></a><br/>
+      <sub>Full-stack · Deployed on AWS</sub>
+    </td>
+    <td>Employee management app with CRUD, live filters by ID, name, department, salary and joining date, deployed on an AWS EC2 server</td>
+    <td><code>React</code> <code>Spring Boot</code> <code>PostgreSQL</code> <code>AWS EC2</code></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Santhosh-kido/human-disease-prediction"><b>Human Disease Prediction System</b></a><br/>
+      <sub>Machine learning · Flask API</sub>
+    </td>
+    <td>Predicts a possible disease from symptoms using three ML models and a majority vote</td>
+    <td><code>Python</code> <code>Flask</code> <code>scikit-learn</code></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Santhosh-kido/Mobile-Addiction-Pdiction-System"><b>User Centric Mobile Addiction Analysis</b></a><br/>
+      <sub>Machine learning · Web app</sub>
+    </td>
+    <td>Questionnaire-based web app that predicts smartphone addiction risk with an ML ensemble</td>
+    <td><code>Python</code> <code>Flask</code> <code>scikit-learn</code></td>
+  </tr>
+</table> -->
 <table>
   <tr>
     <th align="left">Project</th>
