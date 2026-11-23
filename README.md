@@ -16,8 +16,6 @@
   <sub>Final-year B.E. CSE student from Chennai, building full-stack apps with React and Spring Boot, and deploying them on AWS.</sub>
 </p>
 
-<br/>
-
 ### 🚀 What I am up to
 
 - 🎯 **Seeking:** fresher roles in Java full-stack, backend and cloud
