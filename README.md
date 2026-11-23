@@ -42,9 +42,9 @@
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider" />
-</div>
+</div> -->
 🛠️ Featured projects
 <table>
   <tr>
@@ -100,6 +100,7 @@
 
 Web Development Intern · Altruisty Innovation Pvt Ltd, Avadi, Chennai · Jun 2025 to Jul 2025<br/>
 Designed interfaces in Figma and built responsive pages and reusable React components with input validation.
+<br/>
 📈 GitHub stats
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Santhosh-kido&show_icons=true&theme=tokyonight&hide_border=true" />
