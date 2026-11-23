@@ -16,15 +16,17 @@
   <sub>Final-year B.E. CSE student from Chennai, building full-stack apps with React and Spring Boot, and deploying them on AWS.</sub>
 </p>
 
+<br/>
+
 ### 🚀 What I am up to
 
 - 🎯 **Seeking:** fresher roles in Java full-stack, backend and cloud
 - ☁️ **Learning AWS:** I deployed my own project on EC2, and I am now exploring S3 and RDS
 - 🐳 **Next up:** Docker and containerising my Spring Boot apps
-- ⚙️ **Building:** scalable backend systems with Java, Spring Boot and REST APIs
+- ⚙️ **Building:** backend systems and REST APIs with Java and Spring Boot
 - 🧩 **Practising:** one DSA problem a day to sharpen problem solving
 
-## 🛠️ Featured projects
+### 🛠️ Featured projects
 
 <table>
   <tr>
@@ -63,6 +65,7 @@
 <img alt="Java, Spring Boot, React, HTML, CSS, JavaScript, PostgreSQL, Python, Flask" src="https://skillicons.dev/icons?i=java,spring,react,html,css,js,postgres,py,flask&theme=dark" />
 
 ### ☁️ Tools and cloud
+
 <img alt="Arch Linux, VS Code, AWS, Linux, Git, GitHub, Postman, Maven, Figma, Vite, Netlify" src="https://skillicons.dev/icons?i=arch,vscode,aws,linux,git,github,postman,maven,figma,vite,netlify&theme=dark" />
 
 ### 🤝 Let us connect
